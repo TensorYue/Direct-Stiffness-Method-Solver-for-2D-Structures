@@ -9,11 +9,12 @@
 
 ### Element Internal Force Diagram
 
-## 
 
 [Diagram 1.bmp](https://github.com/user-attachments/files/21925394/Diagram.1.bmp)
 
 [Diagram 2.bmp](https://github.com/user-attachments/files/21925395/Diagram.2.bmp)
+
+## Supported Problem Definition
 
 Supported Element Typle: Frame, Frame with hinge on one end, Truss (Frame with hinge on both ends)
 
