@@ -22,7 +22,7 @@ The Boundary_Process.m file has provided a General method for processing Stiffne
 
 
 
-## Supported Problem Definition
+## Supported Definition
 
 ### Deformation
 
