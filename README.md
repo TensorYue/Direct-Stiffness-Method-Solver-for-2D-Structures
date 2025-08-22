@@ -22,7 +22,7 @@ The Boundary_Process.m file has provided a General method for processing Stiffne
 
 ## Element Load Type Table
 
-<img width="1849" height="906" alt="image" src="https://github.com/user-attachments/assets/99f9f416-e141-4c3d-8ef8-18cd0b068efe" />
+<img width="1894" height="836" alt="image" src="https://github.com/user-attachments/assets/65ca40b0-5548-4edb-b2b0-f02a7286ddad" />
 
 ## Supported Definition
 
