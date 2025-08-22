@@ -91,8 +91,8 @@ Graph_Token_Process.m
 
 ## Reference
 
-Aslam Kassimali - Matrix Analysis of Structures
+[1] Aslam Kassimali - Matrix Analysis of Structures
 
-Thomas J.R. Hughes - The Finite Element Method
+[2] Thomas J.R. Hughes - The Finite Element Method
 
 
