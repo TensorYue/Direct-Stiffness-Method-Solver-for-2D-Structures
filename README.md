@@ -20,7 +20,9 @@ The Boundary_Process.m file has provided a General method for processing Stiffne
 
 <img width="1689" height="688" alt="Element Diagram" src="https://github.com/user-attachments/assets/c31e67d9-312f-48b2-8dd7-b4cc45688772" />
 
+## Element Load Type Table
 
+<img width="1849" height="906" alt="image" src="https://github.com/user-attachments/assets/99f9f416-e141-4c3d-8ef8-18cd0b068efe" />
 
 ## Supported Definition
 
