@@ -86,3 +86,11 @@ Graph_Highlight_Element.m
 Graph_Initial.m
 
 Graph_Token_Process.m
+
+# Reference
+
+Aslam Kassimali - Matrix Analysis of Structures
+
+Thomas J.R. Hughes - The Finite Element Method
+
+
