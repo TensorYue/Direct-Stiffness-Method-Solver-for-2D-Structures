@@ -42,7 +42,7 @@ Frame with Hinge on One End
 
 Truss (Frame with Hinge on Both Ends)
 
-### Eccentrail Boundary
+### Essential Boundary
 
 Nodal Support (Arbitary Direction)
 
