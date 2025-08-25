@@ -1,6 +1,6 @@
 # Direct-Stiffness-Method-Solver-for-2D-Structures
 
-**Please view 'DSM Solver Example Problem.pdf' for instruction.**
+**Please view 'DSM Solver Example Problem.pdf' for the example use.**
 
 **The 'DSM_Solver.mlx' file has provided a step-by-step guidance on how to use the program.**
 
