@@ -12,6 +12,10 @@ Users are encouraged to explore the program and feel free to add any features ne
 
 The Boundary_Process.m file has provided a General method for processing Stiffness Matrix with applied Essential and Nature Boundary Conditions and is ready to be implemented into Finite Element Solver.
 
+**Demo Problem**
+
+<img width="1367" height="476" alt="f47635085f4d7215ca5a5356f0796652" src="https://github.com/user-attachments/assets/2e2a626a-0b72-4db4-bf74-b9c7bebef788" />
+
 ## Program Feature
 
 ### Graphic Illustration
